@@ -82,3 +82,9 @@ curl -X POST "http://localhost:8000/products/" \
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast web framework for building APIs
 - [Pydantic](https://pydantic-docs.helpmanual.io/) - Data validation using Python type hints
 - [Uvicorn](https://www.uvicorn.org/) - ASGI server implementation
+
+
+##Docker File
+
+[https://hub.docker.com/r/divyal10/frontend](https://hub.docker.com/r/divyal10/frontend)
+[https://hub.docker.com/r/divyal10/backend](https://hub.docker.com/r/divyal10/backend)
